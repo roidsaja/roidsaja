@@ -6,5 +6,6 @@
 
 - 🌱 I’m currently learning and studying in [IULI](https://cse.iuli.ac.id/)
 - 👯 I’m looking to collaborate on software development for the Web
-- 📫 How to reach me: [Link to my github page](https://roidsaja.github.io)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Have a look at my socials on my github page](https://roidsaja.github.io)
+- 👨‍💻 Pronouns: He/Him
+- 🗿 Feel free to ask me anything, I won't bite :)
