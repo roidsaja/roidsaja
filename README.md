@@ -1,7 +1,7 @@
 [<img align="left" alt="2B" width="390" height="390" src="https://static.wikia.nocookie.net/nier/images/d/d3/AlternateBattler.png/revision/latest/scale-to-width-down/1000?cb=20230331015701">](#)
 [<img align="right" width="390" alt="General" src="https://gist.githubusercontent.com/roidsaja/7bd0309709be211ac6b84a14cbe270a8/raw/general.svg">](#)
 [<img align="left" width="390" alt="Achievements" src="https://gist.githubusercontent.com/roidsaja/7bd0309709be211ac6b84a14cbe270a8/raw/achievements.svg">](#)
-[<img align="left" alt="Emil" src="https://static.wikia.nocookie.net/nier/images/b/bd/NR2021_Emil_Weapon.png/revision/latest?cb=20200927050601">](#)
+[<img align="left" alt="Emil" src="https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png">](#)
 [<img align="right" alt="TS" src="https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png">](#)
 [<img align="left" alt="status" src="https://github.com/roidsaja/roidsaja/actions/workflows/metrics.yml/badge.svg">](https://github.com/roidsaja/roidsaja/actions/workflows/metrics.yml)
 
