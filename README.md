@@ -1,4 +1,4 @@
-[<img align="left" alt="2B" width="390" height="390" src="https://static.wikia.nocookie.net/nier/images/d/d3/AlternateBattler.png/revision/latest/scale-to-width-down/1000?cb=20230331015701">](#)
+[<img align="left" alt="2B" width="364" height="364" src="https://zelda.nintendo.com/tears-of-the-kingdom/_images/features/link-crouching.png">](#)
 [<img align="right" width="390" alt="General" src="https://gist.githubusercontent.com/roidsaja/7bd0309709be211ac6b84a14cbe270a8/raw/general.svg">](#)
 [<img align="left" width="390" alt="Achievements" src="https://gist.githubusercontent.com/roidsaja/7bd0309709be211ac6b84a14cbe270a8/raw/achievements.svg">](#)
 [<img align="right" alt="Emil" src="https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png">](#)
